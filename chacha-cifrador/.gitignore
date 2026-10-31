@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.idea/
+.vscode/
+
+# Archivos de prueba que se generan al usar la herramienta
+*.chacha
+*.descifrado
